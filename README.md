@@ -3,8 +3,8 @@
 http://bit.ly/3na7sgs
 
 Através desse Dashboard é possível fazer as seguintes análises:
-Análise de estoque por loja x categoria. /n
-Análise de estoque por período. \n
+Análise de estoque por loja x categoria.
+Análise de estoque por período.
 Análise de movimentação de estoque por categoria x subcategoria.
 Análise de estoque por subcategoria e por produto.
 Apresentar o estoque atual, bem como informações gerais sobre Entrada, Saída e Devoluções.
